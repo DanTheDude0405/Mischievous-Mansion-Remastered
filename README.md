@@ -30,7 +30,7 @@ Type /trigger **hardcore** for a greater challenge.
 
 ## Puzzle Walkthrough
 
-An official **[Puzzle Walkthrough](https://youtu.be/_PzXxtfSLM﻿)** has been made for this map.
+An official **[Puzzle Walkthrough](https://youtu.be/_qn0fRsFXEo)** has been made for this map.
 
 ## Credits
 
