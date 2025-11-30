@@ -26,7 +26,7 @@ Reload the built-in **Resource Pack** with **F3+T**.
 
 If on a server, manually apply the **[resources.zip](https://minecraft.wiki/w/Resource_pack#Preloaded_resource_packs)**.
 
-Type /trigger **hardcore** for a greater challenge.
+Type /trigger **hardcore** for a more challenging experience.
 
 ## Puzzle Walkthrough
 
